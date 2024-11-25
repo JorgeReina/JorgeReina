@@ -2,7 +2,8 @@
 👨🏻‍💻Desarrollador FullStack<br>
 🔎Buscando trabajo<br>
 📖Autodidacta y trabajador en equipo<br>
-💭Aprendiendo Python
+💭Aprendiendo Python<br>
+📗Mi [Mi Portfolio](https://jorgereinadev.vercel.app/home)
 
 
 # 💻 Habilidades:
