@@ -1,5 +1,5 @@
 # 👋 Soy Jorge Reina:
-👨🏻‍💻Desarrollador FullStack<br>
+👨🏻‍💻Junior Full-Stack Developer<br>
 🔎Buscando trabajo<br>
 📖Autodidacta y trabajador en equipo<br>
 💭Aprendiendo Python<br>
