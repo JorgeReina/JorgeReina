@@ -1,6 +1,5 @@
 # 👋 Soy Jorge Reina:
 👨🏻‍💻Full-Stack Developer<br>
-🔎Buscando trabajo<br>
 📖Autodidacta y trabajador en equipo<br>
 💭Aprendiendo Python<br>
 📗Mi [Mi Portfolio](https://jorgereinadev.vercel.app/home)
